@@ -139,7 +139,7 @@ We will update this policy if our data practices change. Updates will be reflect
 For privacy questions or concerns:
 
 - **Website:** https://kikuai.dev
-- **GitHub:** https://github.com/kiku-jw/ClipStash
+- **GitHub:** https://github.com/KikuAI-Lab/ClipStash
 - **Email:** privacy@kikuai.dev
 
 ---

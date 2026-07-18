@@ -776,7 +776,7 @@ extension SettingsView {
                 .foregroundColor(.blue)
                 
                 Button {
-                    if let url = URL(string: "https://github.com/kiku-jw/ClipStash") {
+                    if let url = URL(string: "https://github.com/KikuAI-Lab/ClipStash") {
                         NSWorkspace.shared.open(url)
                     }
                 } label: {
