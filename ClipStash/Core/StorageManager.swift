@@ -18,9 +18,14 @@ actor StorageManager {
     
     // MARK: - Initialization
     
-    init() {
-        let appSupport = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask).first!
-        let appDir = appSupport.appendingPathComponent("ClipStash", isDirectory: true)
+    init(baseDirectory: URL? = nil) {
+        let appDir: URL
+        if let baseDirectory {
+            appDir = baseDirectory
+        } else {
+            let appSupport = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask).first!
+            appDir = appSupport.appendingPathComponent("ClipStash", isDirectory: true)
+        }
         
         // Create directories if needed
         try? FileManager.default.createDirectory(at: appDir, withIntermediateDirectories: true)
