@@ -192,6 +192,12 @@ A: Delete app + `rm -rf ~/Library/Application\ Support/ClipStash`
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## Follow the work
+
+Project notes and new tools: [Telegram](https://t.me/kiku_ai) ·
+[LinkedIn](https://www.linkedin.com/in/kiku-jw/) ·
+[KikuAI](https://kikuai.dev/)
+
 ## License
 
 AGPL-3.0. Copyright (c) 2025 KikuAI Lab
