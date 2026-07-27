@@ -201,3 +201,14 @@ Project notes and new tools: [Telegram](https://t.me/kiku_ai) ·
 ## License
 
 AGPL-3.0. Copyright (c) 2025 KikuAI Lab
+
+<!-- author-links:start -->
+<p align="center">
+  <a href="https://kikuai.dev/"><img src="https://img.shields.io/badge/Website-kikuai.dev-111827?style=for-the-badge&logo=safari&logoColor=white" alt="KikuAI website"></a>
+  <a href="https://t.me/kiku_ai"><img src="https://img.shields.io/badge/Telegram-%40kiku__ai-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @kiku_ai"></a>
+  <a href="https://github.com/kiku-jw"><img src="https://img.shields.io/badge/GitHub-%40kiku--jw-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @kiku-jw"></a>
+</p>
+<p align="center">
+  <sub>Follow new projects and updates from <a href="https://github.com/kiku-jw">@kiku-jw</a>.</sub>
+</p>
+<!-- author-links:end -->
